@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Formulario_pizzeria
-    Created on : 07-sep-2018, 11:33:30
-    Author     : Jotape
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

@@ -18,6 +18,7 @@ public class servlet_pizzeria extends HttpServlet {
         String pepi = request.getParameter("pep");
         String cham = request.getParameter("champ");
         String ceb = request.getParameter("cebolla");
+        
         int costo = 0;
         int costo_base = 2000;
         int pequeña = 2000, mediana =3500, grande = 6000;
